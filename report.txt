@@ -1,0 +1,5 @@
+Data Report
+-----------------
+Name: Alice, Age: 30, Location: New York
+Name: Bob, Age: 25, Location: Los Angeles
+Name: Charlie, Age: 35, Location: Chicago
